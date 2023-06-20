@@ -11,6 +11,7 @@ print(my_string.capitalize())
 # Eliminar espacios inicio fin
 print(my_string.strip())
 
+
 #Indexign and Slicing
 my_string = "hola 3C DSM"
 print(my_string[0])

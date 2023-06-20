@@ -1,10 +1,10 @@
 drinks = []
 
 def add_drink(drink):
-    drinks.apppend(drink)
+    drinks.append(drink)
 
 def del_drink(drink):
-    try.
+    try:
         drinks.remove(drink)
     except Exception:
         print("No existe una lista")
