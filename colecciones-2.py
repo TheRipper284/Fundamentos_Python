@@ -35,7 +35,7 @@ alumno = {
 }
 print(type(alumno))
 print(alumno)
-print(alumno["name"], alumno["lmame"])
+print(alumno["name"], alumno["lname"])
 if alumno["age"] < 18:
     print("Es menor de edad")
 alumno["Calificaciones"].append(10)
